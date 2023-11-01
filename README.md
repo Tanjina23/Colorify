@@ -1,3 +1,3 @@
 # Colorify 
-Fills a circle with different colors by clicking different button. 
+Fills a circle with different colors by clicking different buttons. 
  
